@@ -1,0 +1,4 @@
+4149249,Dining Tables,520.00
+5093750,Servers      ,480.00
+7014200,Dining Chairs,50.00
+8265876,China Cabinet,680.00
